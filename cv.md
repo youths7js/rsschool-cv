@@ -26,7 +26,7 @@ I always wanted to try coding, but I had no idea where to start and no proper wo
 Skills
 ------
 * HTML
-* CSS (SASS/SCSS, BEM)
+* CSS (SCSS, BEM)
 * JS (in progress)
 * Webpack, VSCode
 
