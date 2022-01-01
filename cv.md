@@ -58,4 +58,4 @@ Languages
 Some Russian, some Ukrainian and a little bit of **English**. 
 
   
-<img src="https://rs.school/images/rs_school_js.svg" style="float: right" width="75" alt="RSS logo">
+<img src="https://rs.school/images/rs_school_js.svg" style="" width="75" alt="RSS logo">
