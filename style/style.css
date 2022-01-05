@@ -19,6 +19,12 @@ body {
 .wrapper {
     width: 1320px auto;
 
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
 }
 
 h1 {
@@ -32,7 +38,7 @@ a {
 
 .container {
     display: flex;
-    width: 1200px;
+    width: 100%;
     padding: 20px 0;
     justify-content: space-between;
     max-width: 1440px;
@@ -90,7 +96,6 @@ a {
 .main {
     display: block;
     flex-grow: 0;
-
 }
 
 .avatar {
@@ -215,6 +220,8 @@ pre {
     display: flex;
     justify-content: space-around;
     background-color: #80933d;
+    width: 100%;
+    flex: 0 0 auto;
 }
 
 .git__link img {
