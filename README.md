@@ -1,4 +1,5 @@
 # rsschool-cv
 
-https://github.com/youths7js/rsschool-cv/cv 
-https://github.com/youths7js/rsschool-cv/
+https://youths7js.github.io/rsschool-cv/cv  
+
+https://youths7js.github.io/rsschool-cv/
